@@ -1,2 +1,2 @@
 # VectorOperationsCUDA
-Vector Operations on CUDA using Page Lock Memory
+Implementation of Addition, Subtraction and Scaling operation on CUDA using Page Lock Memory (Pinned Memory) 
